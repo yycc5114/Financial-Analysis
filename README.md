@@ -1,3 +1,4 @@
+ACC_track2_company_financial_analysis
 ##1. Analytical Objective and Target Audience
 This project undertakes a rigorous quantitative financial analysis of publicly listed manufacturing enterprises within the Chinese equity market over the fiscal period 2020–2025. The primary objective is to evaluate and contrast key financial metrics pertaining to profitability, short-term solvency, and operational efficiency. The framework is designed to facilitate efficient financial performance assessment for two distinct user cohorts: (1) individual retail investors seeking a low-barrier, data-driven screening methodology, and (2) undergraduate students in accounting and finance who wish to observe the practical application of Python in corporate financial statement analysis.
 ##2. Data Provenance and Variable Specification
